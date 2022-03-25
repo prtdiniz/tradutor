@@ -1,0 +1,6 @@
+translators
+
+Translators is a library which aims to bring free, multiple, enjoyable translation
+to individuals and students in Python. It based on the translation interface of Google,
+Yandex, Microsoft(Bing), Baidu, Alibaba, Tencent, NetEase(Youdao), Sogou, Kingsoft(Iciba),
+Iflytek, Deepl, Caiyun, Argos, etc.
